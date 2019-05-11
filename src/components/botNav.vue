@@ -13,7 +13,7 @@
         </ul>
         <p>
           Copyright
-          <i>&#169</i>2005 - 2017 ke365.net版权所有 鄂ICP备17028607号-2
+          <i>c</i>2005 - 2017 ke365.net版权所有 鄂ICP备17028607号-2
         </p>
       </div>
       <div class="right">
